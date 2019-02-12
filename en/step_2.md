@@ -10,7 +10,7 @@ Open the [starter project](http://rpf.io/p/en/beat-the-goalie-scratch2-go){:targ
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank backdrop, a football and goalie sprite.
+In the starter project, you should see a goal backdrop, a football and goalie sprite.
 
 ![starter projects](images/goalie-starter.png)
 

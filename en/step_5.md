@@ -86,7 +86,7 @@ You can change your timer to start at 10 if you don't want to wait for 30 second
 
 --- task ---
 
-You only have the chance to score 1 goal! To have more than 1 chance, add a `forever`{:class="blockcontrol"} block around your __football__ sprite. You can also add a `wait`{:class="blockcontrol"} block between attempts.
+You only have the chance to score 1 goal! To have more than 1 chance, add a `forever`{:class="blockcontrol"} block around your __football__ code. You can also add a `wait`{:class="blockcontrol"} block between attempts.
 
 ![football sprite](images/football-sprite.png)
 
