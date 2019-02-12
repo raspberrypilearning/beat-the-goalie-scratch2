@@ -43,7 +43,7 @@ title: What you will need
 
 #### Software
 
-+ Scratch 2 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2 [offline](http://rpf.io/scratchoff){:target="_blank"}
 
 #### Downloads
 
