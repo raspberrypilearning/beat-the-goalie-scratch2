@@ -6,7 +6,7 @@ Let's add a timer, so that the player has to score as many goals as they can in 
 
 `Make a new variable`{:class="blockdata"} called `timer`{:class="blockdata"}.
 
-[[[generic-scratch3-add-variable]]]
+[[[generic-scratch-add-variable]]]
 
 --- /task ---
 
