@@ -31,7 +31,7 @@ Use blocks similar to the ones above to make the __Goalie__ move to the right `w
 
 --- hint ---
 
-Add blocks to your code so `when the right arrow key is pressed`{:class="block3events"}, the __Goalie's__ `y position is changed by 10`{:class="block3motion"}.
+Add blocks to your code so `when the right arrow key is pressed`{:class="block3events"}, the __Goalie's__ `x position is changed by 10`{:class="block3motion"}.
 
 --- /hint ---
 
